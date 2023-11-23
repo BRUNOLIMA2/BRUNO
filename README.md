@@ -15,4 +15,4 @@
 <img class="img1" src="img/crisp.png" alt="classic cheddar crisp">
 </div>
 <div class='text">
-<p class="texto">
+<p class="texto">0 <b>cheddaar crisp </b> foi um lanche criado
